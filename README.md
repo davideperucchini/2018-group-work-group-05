@@ -5,14 +5,14 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
 
 
 **Students Team**
-Markup :
+
 * Eleonora Cappuccio  
 * Lucia Di Terlizzi  
 * Alessandra Facchin  
 * Paolo Vernocchi  
 
 
-[Creative Coding 2018/2019](https://drawwithcode.github.io/2018/)
+[Creative Coding 2018/2019](https://drawwithcode.github.io/2018/)  
 Politecnico di Milano - Scuola del Design  
 Faculty: Michele Mauri, Tommaso Elli
 
@@ -37,8 +37,8 @@ Inspirations/References
 Our main inspirations have been the social-detox apps that help the users to reduce the time spent on social networks. Most of these apps mute the notifications or reward the users in different ways the less they use the smartphone.
 
 **Credits**
-Markup :
-* p5.js 
+
+* p5.js
 * p5.speech  
 * p5.geolocation  
 * Ngrok  
