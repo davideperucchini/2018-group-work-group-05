@@ -10,6 +10,8 @@ var message = "WALK TO SEE POST FROM OTHER PEOPLE - WALK TO SEE POST FROM OTHER 
 var mic;
 // Images
 var logo;
+var logoType;
+var logoBar;
 var profile;
 // Post
 var post0;
@@ -48,6 +50,8 @@ function preload() {
   /* IMAGES */
   // Logo
   logo = loadImage("assets/logo.png");
+  logoType = loadImage("assets/logoType.png");
+  logoBar = loadImage("assets/logoBar.png");
   // Profile
   profile = loadImage("assets/profile.png");
   // Posts
@@ -138,10 +142,12 @@ function draw() {
   } else {
     /** MOBILE DEVICE **/
     if (frameCount < 24) {
-      image(logo, width / 2, height / 2, width / 5, width / 5);
-      textStyle(NORMAL);
-      textSize(height / 15);
-      text("The Unsocial", width / 2, 1.5 * height / 2);
+      var logoRatio = logo.width / logo.height;
+      var logoTypeRatio = logoType.width / logoType.height;
+      fill(yello);
+      rect(0, 0, width, height);
+      image(logo, width / 2, 2 * height / 5, width / 3, (width / 3) / logoRatio);
+      image(logoType, width / 2, 3 * height / 5, width / 3, (width / 3) / logoTypeRatio);
       if (frameCount > 12) {
         tint(255, alfa);
         alfa -= 25;
@@ -174,7 +180,7 @@ function draw() {
       endShape();
       /* Logo */
       tint(255, 255);
-      image(logo, width / 2, height / 20, height / 15, height / 15);
+      image(logoBar, width / 2, height / 20, height / 15, height / 15);
       /* Personal Profile */
       image(profile, width / 2, 4 * height / 20, height / 10, height / 10);
       textStyle(BOLD);
