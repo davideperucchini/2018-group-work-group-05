@@ -138,7 +138,7 @@ function draw() {
   } else {
     /** MOBILE DEVICE **/
     if (frameCount < 24) {
-      image(logo, width / 2, height / 2);
+      image(logo, width / 2, height / 2, width / 5, width / 5);
       textStyle(NORMAL);
       textSize(height / 15);
       text("The Unsocial", width / 2, 1.5 * height / 2);
