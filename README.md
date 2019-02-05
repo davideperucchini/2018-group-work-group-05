@@ -25,7 +25,7 @@ The demo is structured as a sort of tutorial that guides the user through the ba
 
 **Design challenges**
 The main idea was to create a social network based on uncomfortable interactions. We mapped the basic interactions of the most famous social networks and re-assigned them.
-[! tutorial map](addons/schema.png)
+[! tutorial map](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/shema.png)
 
 
 
