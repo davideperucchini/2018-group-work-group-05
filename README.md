@@ -6,37 +6,37 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
 
 **Students Team**
 
-Eleonora Cappuccio
-Lucia Di Terlizzi
-Alessandra Facchin
-Paolo Vernocchi
+Eleonora Cappuccio  
+Lucia Di Terlizzi  
+Alessandra Facchin  
+Paolo Vernocchi  
 
 
 [Creative Coding 2018/2019] (https://drawwithcode.github.io/2018/)
 Politecnico di Milano - Scuola del Design
 Faculty: Michele Mauri, Tommaso Elli
 
+![splash page video] ()
 
-
-**Project idea**
+**Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
 Nowadays, most of the Interactions with our smartphones are via thumbs. We wanted to create a new kind of user’s experience that avoided the classical ways of using the smartphone and the social network. Eventually, the bad experience will make the user use less the smartphone.
 The demo is structured as a sort of tutorial that guides the user through the basic function of the social network (ex: like a post, share a personal picture etc)
 
-**Design challenges**
+**Design challenges**  
 The main idea was to create a social network based on uncomfortable interactions. We mapped the basic interactions of the most famous social networks and re-assigned them.
 ![tutorial map](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/shema.png)
 
 
 
-**Code challenges**
+**Code challenges**  
 From a coding point of view, having so many interactions based on the smartphone movements.
 We tried to create different canvases, but weren’t able to upload the geolocation on the presets, as it not possible to have a preload function inside multiple canvasses. So we decided to use an if cycle to move from an interaction to another.  
 Also, some of the features as frame count work differently from
 Inspirations/References
 Our main inspirations have been the social-detox apps that help the users to reduce the time spent on social networks. Most of these apps mute the notifications or reward the users in different ways the less they use the smartphone.
 
-**Credits**
+**Credits**  
 p5.js
 p5.speech
 p5.geolocation
