@@ -1,4 +1,4 @@
-# P5-empty-project
+# The Unsocial
 This repository is the starting point of the assignments given in the elective course [Creative Coding at Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=696598&__pj0=0&__pj1=3ed8420c42c849845b5caa3de626e8fc).
 Browse [this website](https://drawwithcode.github.io/) if you want to know more about it.
 
@@ -12,11 +12,11 @@ Alessandra Facchin
 Paolo Vernocchi  
 
 
-[Creative Coding 2018/2019] (https://drawwithcode.github.io/2018/)
+[Creative Coding 2018/2019](https://drawwithcode.github.io/2018/)
 Politecnico di Milano - Scuola del Design
 Faculty: Michele Mauri, Tommaso Elli
 
-![splash page video] ()
+![splash page video] (https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/appfinale.mp4)
 
 **Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
@@ -37,7 +37,7 @@ Inspirations/References
 Our main inspirations have been the social-detox apps that help the users to reduce the time spent on social networks. Most of these apps mute the notifications or reward the users in different ways the less they use the smartphone.
 
 **Credits**  
-p5.js
-p5.speech
-p5.geolocation
-Ngrok
+p5.js  
+p5.speech  
+p5.geolocation  
+Ngrok  
