@@ -16,7 +16,7 @@ Paolo Vernocchi
 Politecnico di Milano - Scuola del Design
 Faculty: Michele Mauri, Tommaso Elli
 
-![splash page video] (https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/appfinale.mp4)
+![splash page video](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/appfinale.mp4)
 
 **Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
