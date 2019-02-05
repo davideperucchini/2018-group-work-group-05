@@ -2,18 +2,18 @@
 This repository is the starting point of the assignments given in the elective course [Creative Coding at Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=696598&__pj0=0&__pj1=3ed8420c42c849845b5caa3de626e8fc).
 Browse [this website](https://drawwithcode.github.io/) if you want to know more about it.
 
-**The Unsocial**
+
 
 **Students Team**
 
-Eleonora Cappuccio  
-Lucia Di Terlizzi  
-Alessandra Facchin  
-Paolo Vernocchi  
+* Eleonora Cappuccio  
+* Lucia Di Terlizzi  
+* Alessandra Facchin  
+* Paolo Vernocchi  
 
 
-[Creative Coding 2018/2019](https://drawwithcode.github.io/2018/)
-Politecnico di Milano - Scuola del Design
+[Creative Coding 2018/2019](https://drawwithcode.github.io/2018/)  
+Politecnico di Milano - Scuola del Design  
 Faculty: Michele Mauri, Tommaso Elli
 
 ![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/unsocial_logo.png)
@@ -36,8 +36,9 @@ Also, some of the features as frame count work differently from
 Inspirations/References
 Our main inspirations have been the social-detox apps that help the users to reduce the time spent on social networks. Most of these apps mute the notifications or reward the users in different ways the less they use the smartphone.
 
-**Credits**  
-p5.js  
-p5.speech  
-p5.geolocation  
-Ngrok  
+**Credits**
+
+* p5.js
+* p5.speech  
+* p5.geolocation  
+* Ngrok  
