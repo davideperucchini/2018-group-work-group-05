@@ -139,6 +139,9 @@ function draw() {
     /** MOBILE DEVICE **/
     if (frameCount < 24) {
       image(logo, width / 2, height / 2);
+      textStyle(NORMAL);
+      textSize(height / 15);
+      text("The Unsocial", width / 2, 1.5 * height / 2);
       if (frameCount > 12) {
         tint(255, alfa);
         alfa -= 25;
