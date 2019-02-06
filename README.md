@@ -17,12 +17,14 @@ Politecnico di Milano - Scuola del Design
 Faculty: Michele Mauri, Tommaso Elli
 
 ![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.013.jpeg)  
-![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/unsocial_gif.gif)  
+
 
 **Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
 Nowadays, most of the Interactions with our smartphones are via thumbs. We wanted to create a new kind of user’s experience that avoided the classical ways of using the smartphone and the social network. Eventually, the bad experience will make the user use less the smartphone.
 The demo is structured as a sort of tutorial that guides the user through the basic function of the social network (ex: like a post, share a personal picture etc)
+
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/unsocial_gif.gif)  
 
 **Design challenges**  
 The main idea was to create a social network based on uncomfortable interactions. We mapped the basic interactions of the most famous social networks and re-assigned them.
