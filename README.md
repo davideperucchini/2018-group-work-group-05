@@ -16,7 +16,8 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
 Politecnico di Milano - Scuola del Design  
 Faculty: Michele Mauri, Tommaso Elli
 
-![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.013.jpeg)
+![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.013.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/unsocial_gif.gif)  
 
 **Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
