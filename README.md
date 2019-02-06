@@ -16,7 +16,7 @@ Browse [this website](https://drawwithcode.github.io/) if you want to know more 
 Politecnico di Milano - Scuola del Design  
 Faculty: Michele Mauri, Tommaso Elli
 
-![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/unsocial_logo.png)
+![Logo](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.013.jpeg)
 
 **Project idea**  
 The Unsocial is a social network demo in p5.js for smartphones that provides the users with uncomfortable interactions.
@@ -26,6 +26,13 @@ The demo is structured as a sort of tutorial that guides the user through the ba
 **Design challenges**  
 The main idea was to create a social network based on uncomfortable interactions. We mapped the basic interactions of the most famous social networks and re-assigned them.
 ![tutorial map](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/shema.png)
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.006.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.007.jpeg)   
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.008.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.009.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.010.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.011.jpeg)  
+![](https://github.com/drawwithcode/2018-group-work-group-05/blob/master/addons/FINALpresentazione_coding.012.jpeg)  
 
 
 
